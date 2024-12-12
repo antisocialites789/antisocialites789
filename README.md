@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @antisocialites789
-- 👀 I’m interested in data science and python programming.
-- 🌱 I’m currently learning R programming and still expanding on my Python knowledge.
-- 💞️ I’m looking to collaborate on to be pending.
+- 👀 I was interested in data science and python programming; now an aspiring GIS Analyst.
+- 🌱 I’m currently learning GIS Python scripting, SQL through PostgresSQL, and many more GIS tools.
 - 📫 How to reach me: kayneferrer123@gmail.com
 
 <!---
